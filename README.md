@@ -500,4 +500,4 @@ Built by [Greg Bessoni](https://github.com/gbessoni) ([@gregbessoni](https://x.c
 
 ## License
 
-MIT
+MIT. See [LICENSE](LICENSE).
